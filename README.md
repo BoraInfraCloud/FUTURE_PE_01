@@ -137,7 +137,7 @@ FUTURE_PE_01/
 ## 🔗 Links
 
 - 🌐 **Live Website:** [[Link after Stitch AI deployment](https://stitch.withgoogle.com/projects/12084299225605311767)]
-- 💼 **LinkedIn Post:** [Your LinkedIn post URL]
+- 💼 **LinkedIn Post:** [[Your LinkedIn post URL](https://www.linkedin.com/posts/bora-karthik-self-aware-131b1a295_futureinterns-promptengineering-ai-activity-7438972291428016128-_6r7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeI6TUBHVwroKCbg8JI948tMmX-XbJm2KA)]
 - 📧 **Contact:** FIT/MAR26/PE2027 | Future Interns Program
 
 ---
