@@ -136,7 +136,7 @@ FUTURE_PE_01/
 
 ## 🔗 Links
 
-- 🌐 **Live Website:** [Link after Stitch AI deployment]
+- 🌐 **Live Website:** [[Link after Stitch AI deployment](https://stitch.withgoogle.com/projects/12084299225605311767)]
 - 💼 **LinkedIn Post:** [Your LinkedIn post URL]
 - 📧 **Contact:** FIT/MAR26/PE2027 | Future Interns Program
 
